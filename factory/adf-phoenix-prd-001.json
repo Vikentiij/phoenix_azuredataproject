@@ -1,0 +1,9 @@
+{
+	"name": "adf-phoenix-prd-001",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d60ad33-532f-437a-8a2e-e8d72bf18d2a",
+		"tenantId": "f28bf6bc-dca8-4c6c-b9e7-90ac544762b6"
+	}
+}
